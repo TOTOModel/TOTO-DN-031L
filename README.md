@@ -63,7 +63,7 @@
         </div>
         <div class="item">
             <div class="label">適合規格：</div>
-            <div class="value">JIS B2061</div>
+            <div class="value">JIS A4007</div>
         </div>
         <div class="item">
             <div class="label">生産国：</div>
